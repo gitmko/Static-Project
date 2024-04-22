@@ -1,4 +1,4 @@
-baseURL: "https://the-static-website.pages.dev/"
+baseURL: "https://staticproject.pages.dev/"
 title: The Static Project
 paginate: 5
 theme: PaperMod
