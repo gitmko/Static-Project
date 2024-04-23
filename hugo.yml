@@ -124,3 +124,6 @@ menu:
       name: Source
       url: https://github.com/gitmko/the-static-website
       weight: 40
+    - identifier: mastodon
+      name: Libre Mercenaries
+      url: https://libremercs.dev
