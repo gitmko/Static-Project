@@ -2,7 +2,7 @@
 title = 'Reducing Screen time'
 date = 2024-04-22T17:25:42+02:00
 tags = ["android", "tech", "guide"]
-draft = true
+draft = false
 +++
 
 # Reducing Screen time
