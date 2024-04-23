@@ -1,6 +1,7 @@
 +++
 title = 'Doubling Your Battery Life'
 date = 2024-04-09T23:19:35+02:00
+tags = ["android", "tech"]
 draft = false
 +++
 

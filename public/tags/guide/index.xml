@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on The Static Project</title>
-    <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on The Static Project</description>
+    <title>Guide on The Static Project</title>
+    <link>http://localhost:1313/tags/guide/</link>
+    <description>Recent content in Guide on The Static Project</description>
     <image>
       <title>The Static Project</title>
       <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
@@ -12,21 +12,13 @@
     <generator>Hugo -- 0.124.1</generator>
     <language>en</language>
     <lastBuildDate>Mon, 22 Apr 2024 17:25:42 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/guide/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Reducing Screen time</title>
       <link>http://localhost:1313/posts/reducing-screentime/</link>
       <pubDate>Mon, 22 Apr 2024 17:25:42 +0200</pubDate>
       <guid>http://localhost:1313/posts/reducing-screentime/</guid>
       <description>Reducing Screen time Introduction I usually have the Digital Wellbeing app set up to send me a notification every week that essentially summarizes my screen time that week, informing me of what apps I used the most as well as how long I used them, my peak usage times, my daily average screen time for the week and worst of all, all of my screen time combined, as you can see here.</description>
-    </item>
-    <item>
-      <title>Doubling Your Battery Life</title>
-      <link>http://localhost:1313/posts/double-battery-life/</link>
-      <pubDate>Tue, 09 Apr 2024 23:19:35 +0200</pubDate>
-      <guid>http://localhost:1313/posts/double-battery-life/</guid>
-      <description>How I &amp;ldquo;doubled&amp;rdquo; my battery life Most Android OEMs come bundled with a TON of bloatware. For example, I don&amp;rsquo;t use most of the google suite so I tend to delete almost all of the google apps that come pre-installed with my device.
-Some Background I use a Samsung Galaxy S23 as my main device, so on top of coming in with some of the google apps such as their frankly awful browser and assistant I only ever used for music recognition, it also came in with a bunch of Samsung bloatware such as Bixby, the &amp;ldquo;modes &amp;amp; routines&amp;rdquo; which require WAY too many permissions for me to trust, I ended up trying some of the features and realizing that I, personally, could live without them.</description>
     </item>
   </channel>
 </rss>

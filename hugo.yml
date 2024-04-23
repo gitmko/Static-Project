@@ -108,15 +108,19 @@ outputs:
 
 menu:
   main:
-    - identifier: posts 
-      name: posts
+    - identifier: posts
+      name: Posts
       url: /posts/
       weight: 10
     - identifier: archive 
-      name: archive 
+      name: Archive 
       url: /archive/
       weight: 20
-    - identifier: source 
-      name: source
-      url: https://github.com/gitmko/the-static-website
+    - identifier: tags
+      name: Tags 
+      url: /tags/
       weight: 30
+    - identifier: source 
+      name: Source
+      url: https://github.com/gitmko/the-static-website
+      weight: 40
