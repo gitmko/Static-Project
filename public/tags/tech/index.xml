@@ -9,7 +9,7 @@
       <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- 0.124.1</generator>
+    <generator>Hugo -- 0.127.0</generator>
     <language>en</language>
     <lastBuildDate>Mon, 22 Apr 2024 17:25:42 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/tech/index.xml" rel="self" type="application/rss+xml" />
@@ -25,7 +25,7 @@
       <link>http://localhost:1313/posts/double-battery-life/</link>
       <pubDate>Tue, 09 Apr 2024 23:19:35 +0200</pubDate>
       <guid>http://localhost:1313/posts/double-battery-life/</guid>
-      <description>How I &amp;ldquo;doubled&amp;rdquo; my battery life Most Android OEMs come bundled with a TON of bloatware. For example, I don&amp;rsquo;t use most of the google suite so I tend to delete almost all of the google apps that come pre-installed with my device.
+      <description>How I &amp;ldquo;doubled&amp;rdquo; my battery life FUCK YEA Most Android OEMs come bundled with a TON of bloatware. For example, I don&amp;rsquo;t use most of the google suite so I tend to delete almost all of the google apps that come pre-installed with my device.
 Some Background I use a Samsung Galaxy S23 as my main device, so on top of coming in with some of the google apps such as their frankly awful browser and assistant I only ever used for music recognition, it also came in with a bunch of Samsung bloatware such as Bixby, the &amp;ldquo;modes &amp;amp; routines&amp;rdquo; which require WAY too many permissions for me to trust, I ended up trying some of the features and realizing that I, personally, could live without them.</description>
     </item>
   </channel>
